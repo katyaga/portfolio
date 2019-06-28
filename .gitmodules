@@ -1,9 +1,6 @@
 [submodule "927803-technomart"]
 	path = 927803-technomart
 	url = https://github.com/katyaga/927803-technomart
-[submodule "927803-cat-energy-16"]
-	path = 927803-cat-energy-16
-	url = https://github.com/katyaga/927803-cat-energy-16
 [submodule "cat-energy"]
 	path = cat-energy
 	url = https://github.com/katyaga/927803-cat-energy-16
