@@ -1,7 +1,7 @@
 .main {
     min-height: calc(100vh - 140px);
     background-color: aliceblue;
-    padding-bottom: 40px;
+    /*padding-bottom: 40px;*/
 }
 
 header .navbar-brand {
@@ -60,6 +60,10 @@ header .nav-item {
     justify-content: space-between;
 
     border-radius: 30px;
+}
+
+.list-group-item:last-child {
+    margin-bottom: 40px;
 }
 
 .list-group-item:first-child,
