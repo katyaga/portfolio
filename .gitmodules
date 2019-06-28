@@ -10,3 +10,6 @@
 [submodule "pink"]
 	path = pink
 	url = https://github.com/katyaga/Pink
+[submodule "profitlab"]
+	path = profitlab
+	url = https://github.com/katyaga/profitlab
